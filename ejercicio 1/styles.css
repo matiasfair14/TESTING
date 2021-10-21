@@ -1,0 +1,12 @@
+#caja {
+    width: 100px;
+    height: 160px;
+    background: green;
+    position: relative;
+}
+#container {
+    width: 961px;;
+    height: 500px;
+    background: red;
+
+}
